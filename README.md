@@ -22,7 +22,7 @@ This project is an implementation of the classic Space Invaders game for the MSP
 ## Getting Started
 
 1. Clone the repository to your local machine.
-2. Open the project in your preferred IDE (Eclipse or Visual Studio Code).
+2. Open the project in your preferred IDE (I used CCS).
 3. Build the project.
 4. Flash the compiled binary to the MSP430F5529 microcontroller.
 5. Run the game and enjoy!
